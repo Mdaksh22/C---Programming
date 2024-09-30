@@ -1,0 +1,204 @@
+/.cph
+/.idea
+/.vscode
+/11b.cpp
+/11b.exe
+/a= b+c.cpp
+/addition using function.cpp
+/area of triangle using function cpp.cpp
+/armstrong number.cpp
+/array_deletion_from_any_index.cpp
+/array_deletion_from_any_index.exe
+/array_digit_frequency.cpp
+/array_dynamic_memory_allocation.cpp
+/array_finding_duplicates.cpp
+/array_insertion_on_any_index.cpp
+/array_insertion_on_any_index.exe
+/array_linear_search.cpp
+/array_merge_of_two_arrays_in_sorted_way.cpp
+/array_merge_of_two_arrays_in_sorted_way.exe
+/array_merge_of_two_sorted_arrays.cpp
+/array_merge_of_two_sorted_arrays.exe
+/array_merge_of_two_unsorted_arrays.cpp
+/array_removal_of_duplicates.cpp
+/array_sum_of array_minus_individual_element.cpp
+/assignmnt_3.exe
+/assignmnt_4.exe
+/assignmnt_5.exe
+/binary search (2).cpp
+/binary search.cpp
+/build
+/c program for shopping list.cpp
+/C++ sample calculator code.cpp
+/constructors (default).cpp
+/constructors(para,default,copy).cpp
+/constructors(parameterized).cpp
+/constructors.cpp
+/cpp dv.cpp
+/cpp.cpp
+/cpp.exe
+/CS PROGRAMMING.cpp
+/digit frequency.cpp
+/duplicate values.cpp
+/Exception handling multiple catch statemenets.cpp
+/Exception handling nested try catch handling.cpp
+/Exception handling SPECIFYING EXCEPTIONS.cpp
+/Exception handling using inheritance.cpp
+/Exception handling.cpp
+/factorial.cpp
+/fib+fact.cpp
+/fibonacci.cpp
+/fibonacii using constructor.cpp
+/fiboncci.cpp
+/file handling COPY CONTENT OF ONE FILE INTO ANOTHER FILE.cpp
+/file handling COPYING CONTENT OF ONE FILE AND WRITING IT INTO ANOTHER FILE AT THE END OF IT.cpp
+/file handling copying content of one file into another using insertion and extraction operator.cpp
+/file handling copying content of one file into another.cpp
+/file handling GET FUNCTION.cpp
+/file handling GETLINE FUNCTION.cpp
+/file handling GPUT FUNCTION.cpp
+/file handling INTRO.cpp
+/file handling OPEN FILE WITH CONSTRUCTOR.cpp
+/file handling READ AND WRITE FUNCTION.cpp
+/file handling READING TEXT USING IFSTREAM.cpp
+/file handling SAMPLE PROGRAM.cpp
+/file handling seek function.cpp
+/file handling USING INSERTION OPERATOR.cpp
+/file handling USING READ AND WRITE WITH ARRAY OF OBJECTS.cpp
+/file handling using tell func CALCULATE TOTAL NUMBER OF BITS IN A FILE.cpp
+/file handling WITH OPEN CLOSE FUNCTION.cpp
+/file handling WRITING TEXT USING OFSTREAM.cpp
+/file.txt
+/file1.txt
+/file2.txt
+/FINDING QUOTIENT AND REMAINDER.cpp
+/flowchart.cpp
+/friend class.cpp
+/friend function.cpp
+/function 1.cpp
+/functions.cpp
+/gcd.cpp
+/gcd.exe
+/grade of students by (nested if).cpp
+/grade of students new.cpp
+/grade of students.cpp
+/hackerank class.cpp
+/histograph.cpp
+/IMPORTANT NOTES.cpp
+/inheri using constructor and destructor.cpp
+/inheritance calling parametrized constructor from derived class.cpp
+/inheritance hirarchical.cpp
+/inheritance hybrid part 2.cpp
+/inheritance hybrid.cpp
+/inheritance multiple and ambiguity resolution.cpp
+/inheritance private mode.cpp
+/inheritance public mode.cpp
+/INHERITANCE PURE VIRTUAL AND STATIC DATA.cpp
+/INHERITANCE PURE VIRTUAL FUNCTIONS.cpp
+/inheritance single multiple hirarchical multilvel.cpp
+/inheritance single.cpp
+/inheritance virtual base class.cpp
+/inheritance.cpp
+/insertion_sort.cpp
+/leap yaer cpps.cpp
+/leap year.cpp
+/linear search.cpp
+/linked_list_circular_traversal_struct.cpp
+/linked_list_circular_using_class.cpp
+/linked_list_circular_using_class.exe
+/linked_list_circular_using_struct.cpp
+/linked_list_creation_class.cpp
+/linked_list_deletion_class.cpp
+/linked_list_deletion_struct.cpp
+/linked_list_doubly_using_class.cpp
+/linked_list_doubly_using_class.exe
+/linked_list_duplicates_removal.cpp
+/linked_list_duplicates_removal.exe
+/linked_list_insertion_after_a_node_struct.cpp
+/linked_list_insertion_at_end_struct.cpp
+/linked_list_insertion_at_start_index_struct.cpp
+/linked_list_insertion_in_between_index_struct.cpp
+/linked_list_in_c++.cpp
+/linked_list_in_c.cpp
+/new factorial.cpp
+/online shopping model.cpp
+/oop addition of complex nos using operator overoading.cpp
+/oop ascending and descending.cpp
+/oop bank account new.cpp
+/oop bank account.cpp
+/oop calculate sum of individual digit of number.cpp
+/oop class.cpp
+/oop constructors and destructors.cpp
+/oop employee database.cpp
+/oop fibonacci using function overloading.cpp
+/oop fibonacci.cpp
+/oop find largest and smallest array element.cpp
+/oop function ambiguity.cpp
+/oop function overloading.cpp
+/oop ie2.cpp
+/oop inline functions.cpp
+/oop introduction.cpp
+/oop matrix add sub mul.cpp
+/oop max and min in an array.cpp
+/OOP NEW  DLT APPLICATION.cpp
+/OOP NEW AND DELETE APPLICATION.cpp
+/OOP NEW AND DELETE OPERATORS.cpp
+/oop operator overaloading new.cpp
+/oop operator overloading.cpp
+/oop output in a single line.cpp
+/oop pointer with array.cpp
+/oop prime number.cpp
+/oop solution for function abiguity.cpp
+/oop static variable concept.cpp
+/oop static variable.cpp
+/oop STUDENT DATA BASE WITH FOR LOOP.cpp
+/oop student database using constructor and destructor.cpp
+/oop student database using pointer to object.cpp
+/oop student database.cpp
+/oop to find a element.cpp
+/oop to find sum of individual digits.cpp
+/oop to search a element.cpp
+/palindrome.cpp
+/practice.cpp
+/practise 2.cpp
+/prime number cpps.cpp
+/prime number new.cpp
+/prime using flag.cpp
+/Radix_sort_dry_run.pdf
+/recursive function( factoria)l.cpp
+/removal of duplicates.cpp
+/reversal of array elements.cpp
+/scope resolution.cpp
+/searching smallest element in array.cpp
+/slection sort.cpp
+/sorted array.cpp
+/sorting a array.cpp
+/sorting by percentage.cpp
+/sorting_an_array_by_alternate_positive_negative_numbers.cpp
+/sorting_a_binary_array.cpp
+/sorting_a_binary_array.exe
+/sort_lab.cpp
+/sort_lab.exe
+/stack and queue.cpp
+/star printing patern.cpp
+/string1.cpp
+/structure applications.cpp
+/structure books.cpp
+/structure.c
+/tempCodeRunnerFile.c
+/tempCodeRunnerFile.cpp
+/tempCodeRunnerFile.exe
+/template scalar multiplication.cpp
+/template specializiation.cpp
+/Template student report card.cpp
+/TEMPLATES ADD TWO NUMS OF DIFFERENT DATATYPES.cpp
+/TEMPLATES add two nums.cpp
+/Templates function inside class.cpp
+/Templates function overloading.cpp
+/TEMPLATES INTRO.cpp
+/TEMPLATES SWAPPING TWO NUMS.cpp
+/ticket_generation.cpp
+/ticket_generation.exe
+/to count blank spaces in a sentence.cpp
+/to display array elemnts.cpp
+/USING MAX PROPERTY.cpp
